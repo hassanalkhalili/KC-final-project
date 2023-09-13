@@ -1,0 +1,25 @@
+.card1{
+background-color: grey;
+box-shadow: 3px 4px 6px;
+margin: 20px;
+}
+
+#img1{
+
+width: 850px;
+height: 400px;
+
+margin-left: 250px;
+}
+.gaminglaptop{
+ text-align: right;
+}
+
+#head2{
+    text-align: right;
+   
+     margin-right: 100px;
+}
+.head3{
+   color: black;
+}
